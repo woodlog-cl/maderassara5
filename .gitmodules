@@ -17,3 +17,8 @@
 	path = wl_dashboard
 	url = git@github.com:woodlog-cl/wl_dashboard.git
 	branch = main
+
+[submodule "wl_reception"]
+	path = wl_reception
+	url = git@github.com:woodlog-cl/wl_reception.git
+	branch = 15.0
