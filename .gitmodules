@@ -1,0 +1,4 @@
+[submodule "wl_logistics"]
+	path = wl_logistics
+	url = git@github.com:woodlog-cl/wl_logistics.git
+	branch = main
