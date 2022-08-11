@@ -2,3 +2,8 @@
 	path = wl_logistics
 	url = git@github.com:woodlog-cl/wl_logistics.git
 	branch = main
+
+[submodule "wl_barcode"]
+	path = wl_barcode
+	url = git@github.com:woodlog-cl/wl_barcode.git
+	branch = main
