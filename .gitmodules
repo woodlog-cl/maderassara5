@@ -7,3 +7,8 @@
 	path = wl_barcode
 	url = git@github.com:woodlog-cl/wl_barcode.git
 	branch = main
+
+[submodule "wl_production"]
+	path = wl_production
+	url = git@github.com:woodlog-cl/wl_production.git
+	branch = main
