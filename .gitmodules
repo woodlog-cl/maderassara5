@@ -12,3 +12,8 @@
 	path = wl_production
 	url = git@github.com:woodlog-cl/wl_production.git
 	branch = main
+
+[submodule "wl_dashboard"]
+	path = wl_dashboard
+	url = git@github.com:woodlog-cl/wl_dashboard.git
+	branch = main
